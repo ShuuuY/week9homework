@@ -510,7 +510,6 @@
     "y": {"field": "medal", "type": "nominal", "axis": null, "sort": null},
     "row": {"field": "country", "header": {"title": ""}},
     "text": {"field": "emoji", "type": "nominal"},
-    "size": {"value": 30},
-    "tooltip":{}
+    "size": {"value": 30}
   }
 }
