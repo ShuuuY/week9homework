@@ -1,4 +1,4 @@
-Team(IOC Code),summer_rank,s_gold,s_silver,s_bronze,summer_total,winter_rank,w_gold,w_silver,w_bronze,winter_total,overall_rank,total_gold,total_silver,total_bronze,total_medals,Country
+Team(IOC Code),summer_rank,GoldInSummer,SilverInSummer,BronzeInSummer,SummerTotalMedals,winter_rank,GoldInWinter,SilverInWinter,BronzeInWinter,WinterTotalMedals,overall_rank,total_gold,total_silver,total_bronze,total_medals,Country
 ?United States,27,1022,795,706,2523,23,105,112,88,305,50,1127,907,794,2828,United States of America
 ?Soviet Union,9,395,319,296,1010,9,78,57,59,194,18,473,376,355,1204,Soviet Union
 ?Great Britain,28,263,295,293,851,23,11,4,17,32,51,274,299,310,883,Great Britain
